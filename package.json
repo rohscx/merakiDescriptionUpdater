@@ -1,0 +1,24 @@
+{
+  "name": "merakidescriptionupdater",
+  "version": "1.0.0",
+  "description": "Updates Meraki device descriptions, and general properties",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohscx/merakiDescriptionUpdater.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohscx/merakiDescriptionUpdater/issues"
+  },
+  "homepage": "https://github.com/rohscx/merakiDescriptionUpdater#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nodeutilz": "^1.0.8",
+    "request": "^2.88.0"
+  }
+}
